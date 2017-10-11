@@ -14,7 +14,7 @@ $ cd rest-api-express
 $ npm install
 $ node express.js
 ```
-open web page http://localhost:3000/collections/<collection>
+open web page http://localhost:3000/collections/collection
   
 each refresh of this page will pull the latest data record.  
 ---
