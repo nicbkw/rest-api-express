@@ -12,6 +12,7 @@ Brief instructions:
 $ git clone https://github.com/nicbkw/rest-api-express.git
 $ cd rest-api-express
 $ npm install
+# edit config.js for your db credentials
 $ node express.js
 ```
 open web page http://localhost:3000/collections/collection
