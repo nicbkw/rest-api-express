@@ -19,7 +19,6 @@ app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({
   extended: true
 }))
-app.use(logger('dev'))
 
 var db = mongoskin.db('mongodb://' +
   config.mongodb.username + ':' +
