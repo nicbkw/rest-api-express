@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nicbkw/ttn-mongodb-express.git"
+    "url": "https://github.com/nicbkw/rest-api-express.git"
   },
   "author": "Nic Burkinshaw",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nicbkw/ttn-mongodb-express/issues"
+    "url": "https://github.com/nicbkw/rest-api-express/issues"
   },
   "dependencies": {
     "body-parser": "1.18.2",
