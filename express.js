@@ -11,7 +11,6 @@
 var express = require('express'),
   mongoskin = require('mongoskin'),
   bodyParser = require('body-parser')
-logger = require('morgan')
 
 var config = require('./config');
 
