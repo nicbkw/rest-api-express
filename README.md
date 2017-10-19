@@ -4,7 +4,7 @@
 
 `master` branch
 
-Full tutorial: <http://webapplog.com/express-js-4-node-js-and-mongodb-rest-api-tutorial/>
+Full tutorial based on the original code branch: <http://webapplog.com/express-js-4-node-js-and-mongodb-rest-api-tutorial/>
 
 Brief instructions:
 
@@ -17,5 +17,4 @@ $ node express.js
 ```
 open web page http://localhost:3000/collections/collection
   
-each refresh of this page will pull the latest data record.  
----
+each refresh of this page will pull the latest data record.
